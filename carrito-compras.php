@@ -19,5 +19,6 @@ segunda actualizacion mendiante commint
         <input type="number" name="id_producto"><br><br>
 
         <input type="submit" value="Guardar">
+        # añade mas contenido
 
     </form>
